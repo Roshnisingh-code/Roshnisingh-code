@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roshnisingh-code" alt="roshnisingh-code" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/spaceexplorer06" target="blank"><img src="https://img.shields.io/twitter/follow/spaceexplorer06?logo=twitter&style=for-the-badge" alt="spaceexplorer06" /></a> </p>
+<p align="left"> <a href="https://twitter.com/spaceexplorer06" target="blank"><img src="https://img.shields.io/twitter/follow/spaceexplorer06?logo=twitter&style=for-the-badge" alt="RoshniSingh-code" /></a> </p>
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 👯 I’m looking to collaborate on **training a neural model**
+- 👯 I’m looking to collaborate on **any designing work**
 
 - 💬 Ask me about **C language**
 
